@@ -1,7 +1,7 @@
 import Header from "./components/Header"
 import Toolbar from "./components/Toolbar"
 import TabSection from "./components/TabSection"
-
+import SpreadsheetTable from "./components/SpreadsheetTable"
 
 function App() {
 
@@ -11,6 +11,7 @@ function App() {
       <Toolbar />
       <div className="bg-white">
         <TabSection />
+        <SpreadsheetTable />
       </div>
     </div>
   )
