@@ -2,6 +2,8 @@
 
 This project is a front-end-only prototype that replicates a spreadsheet interface based on the provided Figma design.
 
+## Live Link - https://jimilassignment.netlify.app/
+
 ## 📌 Objective
 
 Build a pixel-perfect React UI that mimics the behavior and appearance of a Google Sheets-like table using:
